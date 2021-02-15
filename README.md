@@ -1,7 +1,7 @@
 # hello-world
 My first hello-world repository
 
-Hi there. I like learning programming languages. Started with Java seven months ago. Hope to contribute and help.
+Hi there. I like learning programming languages. Started with Java, html, css, javascript. Hope to contribute and help.
 
 ```java
   public class HelloWorld {
